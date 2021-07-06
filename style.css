@@ -1,0 +1,31 @@
+span{
+    color:orange;
+}
+body{
+    font-family: 'Permanent Marker', cursive;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 56%;
+    padding-left: 5%;
+}
+.half-width img{
+    width:57%;
+    float:right;
+    margin-right:26%;
+    margin-top: 10%;
+}
+h1{
+    font-size: 45px;
+}
+.link-button{
+    text-decoration:none;
+    background-color: black;
+    padding:10px 19px;
+    border-radius:9px;
+    font-weight: 500;
+    color: yellow;
+    border:5px double yellow;
+}
