@@ -14,10 +14,10 @@ section{
     padding-left: 5%;
 }
 .half-width img{
-    width:57%;
+    width:60%;
     float:right;
     margin-right:26%;
-    margin-top: 5%;
+    margin-top: 15%;
 }
 h1{
     font-size: 45px;
@@ -37,4 +37,26 @@ p{
     font-weight: 500;
     color: yellow;
     border:5px double yellow;
+}
+
+.last-ep{
+    color:cornflowerblue;
+    padding-left: 15px;
+    box-shadow:10px 10px 40px black;
+    margin-left:25px;
+}
+.last-ep img{
+    width: 380px; 
+    height: 290px;
+    margin-left:25px;
+    margin-right:25px;
+}
+
+h3{
+    color:orangered;
+}
+
+footer{
+    text-align: center;
+    color:blueviolet;
 }
