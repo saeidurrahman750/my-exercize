@@ -5,20 +5,29 @@ body{
     font-family: 'Permanent Marker', cursive;
 }
 section{
-    display: flex;
+    display: flex; 
+    margin-top:3%;
+
 }
 .half-width{
-    width: 56%;
+    width: 59%;
     padding-left: 5%;
 }
 .half-width img{
     width:57%;
     float:right;
     margin-right:26%;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 h1{
     font-size: 45px;
+}
+h2{
+    color: chocolate;
+}
+p{
+    font-size:106%;
+    padding-right: 5%;
 }
 .link-button{
     text-decoration:none;
